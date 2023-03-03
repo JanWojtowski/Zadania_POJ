@@ -8,6 +8,8 @@ public class Zadanie_6 {
         System.out.println("Podaj numer dnia tygodnia:");
         int day = scanner.nextInt();
 
+
+
         switch (day) {
             case 1 -> System.out.println("Poniedziałek");
             case 2 -> System.out.println("Wtorek");

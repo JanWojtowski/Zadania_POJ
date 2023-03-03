@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Zadania 1-6">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie_6.java" afterDir="false" />
-    </list>
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Zadanie 6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677860785710</updated>
       <workItem from="1677860786868" duration="530000" />
-      <workItem from="1677861523801" duration="363000" />
+      <workItem from="1677861523801" duration="582000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -91,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677861274892</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Zadania 1-6">
+      <created>1677861891467</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677861891467</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Zadanie 6">
+      <created>1677862041144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677862041145</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Zadania 1-5" />
     <MESSAGE value="Zadania 1-6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadania 1-6" />
+    <MESSAGE value="Zadanie 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 6" />
   </component>
 </project>
