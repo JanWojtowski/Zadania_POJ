@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Zadanie 6" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Zadanie 7">
+      <change afterPath="$PROJECT_DIR$/Zadanie_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie_7.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +55,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/janwo/IdeaProjects/Zadania_POJ&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -66,6 +73,8 @@
       <updated>1677860785710</updated>
       <workItem from="1677860786868" duration="530000" />
       <workItem from="1677861523801" duration="582000" />
+      <workItem from="1677862427860" duration="222000" />
+      <workItem from="1677936237786" duration="5110000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -102,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677862041145</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Zadanie 6">
+      <created>1677862564283</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677862564283</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Zadanie 7">
+      <created>1677862641487</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677862641487</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +146,7 @@
     <MESSAGE value="Zadania 1-5" />
     <MESSAGE value="Zadania 1-6" />
     <MESSAGE value="Zadanie 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 6" />
+    <MESSAGE value="Zadanie 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 7" />
   </component>
 </project>
