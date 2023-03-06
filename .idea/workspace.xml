@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Zadanie 7">
-      <change afterPath="$PROJECT_DIR$/Zadanie_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie_7.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Przeniesienie do Lab1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +56,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/janwo/IdeaProjects/Zadania_POJ&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/janwo/IdeaProjects/Zadania_POJ",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,6 +82,7 @@
       <workItem from="1677861523801" duration="582000" />
       <workItem from="1677862427860" duration="222000" />
       <workItem from="1677936237786" duration="5110000" />
+      <workItem from="1678116468252" duration="524000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -147,6 +155,7 @@
     <MESSAGE value="Zadania 1-6" />
     <MESSAGE value="Zadanie 6" />
     <MESSAGE value="Zadanie 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 7" />
+    <MESSAGE value="Przeniesienie do Lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Przeniesienie do Lab1" />
   </component>
 </project>
