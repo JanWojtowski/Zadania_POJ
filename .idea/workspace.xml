@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab2 create">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab2 zad 1">
+      <change afterPath="$PROJECT_DIR$/Lab2/Ex2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/Zadanie_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Zadanie_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Zadanie_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +67,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Zadanie_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab2.Zadanie_1" />
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2.Ex1" />
       <module name="Zadania_POJ" />
       <extension name="coverage">
         <pattern>
@@ -82,7 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zadanie_1" />
+        <item itemvalue="Application.Ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +98,7 @@
       <workItem from="1677861523801" duration="582000" />
       <workItem from="1677862427860" duration="222000" />
       <workItem from="1677936237786" duration="5110000" />
-      <workItem from="1678116468252" duration="2421000" />
+      <workItem from="1678116468252" duration="4239000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678117129733</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Lab2 zad 1">
+      <created>1678119486536</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678119486536</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +201,7 @@
     <MESSAGE value="Zadanie 7" />
     <MESSAGE value="Przeniesienie do Lab1" />
     <MESSAGE value="Lab2 create" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab2 create" />
+    <MESSAGE value="Lab2 zad 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab2 zad 1" />
   </component>
 </project>
