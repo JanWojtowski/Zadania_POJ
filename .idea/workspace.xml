@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Przeniesienie do Lab1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zadanie_9.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab2 create">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Zadanie_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Zadanie_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +59,33 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Zadanie_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2.Zadanie_1" />
+      <module name="Zadania_POJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Zadanie_1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +98,7 @@
       <workItem from="1677861523801" duration="582000" />
       <workItem from="1677862427860" duration="222000" />
       <workItem from="1677936237786" duration="5110000" />
-      <workItem from="1678116468252" duration="524000" />
+      <workItem from="1678116468252" duration="2421000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -133,7 +149,28 @@
       <option name="project" value="LOCAL" />
       <updated>1677862641487</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Przeniesienie do Lab1">
+      <created>1678117005722</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678117005722</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Przeniesienie do Lab1">
+      <created>1678117040058</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678117040058</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lab2 create">
+      <created>1678117129733</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678117129733</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +193,7 @@
     <MESSAGE value="Zadanie 6" />
     <MESSAGE value="Zadanie 7" />
     <MESSAGE value="Przeniesienie do Lab1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Przeniesienie do Lab1" />
+    <MESSAGE value="Lab2 create" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab2 create" />
   </component>
 </project>
