@@ -1,3 +1,5 @@
+package Lab1;
+
 public class Zadanie_3 {
 
     public static void main(String[] args) {
