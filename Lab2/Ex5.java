@@ -42,7 +42,7 @@ public class Ex5 {
         }
     }
 
-    private static void print2DTab(int[][] tab){ // Metoda wypisuje tablice 2D wcześniej wypełnioną
+    private static void print2DTab(int[][] tab){
         for(int i = 0; i < tab.length; i++){
             System.out.print("|\t");
             for (int j = 0; j < tab[i].length; j++) {
