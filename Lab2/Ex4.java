@@ -13,7 +13,6 @@ public class Ex4 {
         int[][] tab = new int[columns][rows];
 
         print2DTab(tab,100);
-
     }
 
     public static void print2DTab(int[][] tab){
@@ -37,7 +36,5 @@ public class Ex4 {
             System.out.print("|\n");
         }
     }
-
-
 
 }
