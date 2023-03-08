@@ -37,7 +37,7 @@ public class Ex5 {
             return  sumTab;
         }
         else {
-            System.out.println("Nie można dodać tablic różnej wieklość!!!");
+            System.out.println("Nie można dodać macierzy różnej wieklość!!!");
             return new int[0][0];
         }
     }
