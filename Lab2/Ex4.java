@@ -15,7 +15,7 @@ public class Ex4 {
         print2DTab(tab,100);
     }
 
-    public static void print2DTab(int[][] tab){
+    public static void print2DTab(int[][] tab){ // Metoda wypisuje tablice 2D wcześniej wypełnioną
         for(int i = 0; i < tab.length; i++){
             System.out.print("|\t");
             for (int j = 0; j < tab[i].length; j++){
@@ -25,7 +25,7 @@ public class Ex4 {
         }
     }
 
-    public static void print2DTab(int[][] tab, int max){
+    public static void print2DTab(int[][] tab, int max){ // Metoda sama wypełnia tablice 2D i ją wypisuje
         Random random = new Random();
         for(int i = 0; i < tab.length; i++){
             System.out.print("|\t");
