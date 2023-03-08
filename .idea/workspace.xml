@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Zadanie 7">
-      <change afterPath="$PROJECT_DIR$/Zadanie_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie_9.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="x">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Ex2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -75,6 +73,7 @@
       <workItem from="1677861523801" duration="582000" />
       <workItem from="1677862427860" duration="222000" />
       <workItem from="1677936237786" duration="5110000" />
+      <workItem from="1678272658842" duration="3576000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -125,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677862641487</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="x">
+      <created>1678126902484</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678126902484</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +153,7 @@
     <MESSAGE value="Zadania 1-6" />
     <MESSAGE value="Zadanie 6" />
     <MESSAGE value="Zadanie 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 7" />
+    <MESSAGE value="x" />
+    <option name="LAST_COMMIT_MESSAGE" value="x" />
   </component>
 </project>
