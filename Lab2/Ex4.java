@@ -7,10 +7,10 @@ public class Ex4 {
     public static void main(String[] args) {
         Random random = new Random();
 
-        int columns = random.nextInt(10) + 1;
         int rows = random.nextInt(10) + 1;
+        int columns = random.nextInt(10) + 1;
 
-        int[][] tab = new int[columns][rows];
+        int[][] tab = new int[rows][columns];
 
         print2DTab(tab,100);
     }
