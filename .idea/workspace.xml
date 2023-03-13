@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Ex5">
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex2/Main.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab3 Ex1">
+      <change afterPath="$PROJECT_DIR$/Lab3/Ex2/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Ex2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,8 @@
       <workItem from="1678300507802" duration="4937000" />
       <workItem from="1678309710807" duration="1363000" />
       <workItem from="1678311082346" duration="2141000" />
-      <workItem from="1678730201218" duration="1278000" />
+      <workItem from="1678730201218" duration="1362000" />
+      <workItem from="1678745997949" duration="1974000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -215,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678313651598</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Lab3 Ex1">
+      <created>1678731713184</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1678731713184</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +251,7 @@
     <MESSAGE value="Ex4/5" />
     <MESSAGE value="Ex6" />
     <MESSAGE value="Ex5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex5" />
+    <MESSAGE value="Lab3 Ex1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab3 Ex1" />
   </component>
 </project>
