@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab3 Ex2">
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex3/Remote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex3/Tv.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab3 Ex3">
+      <change afterPath="$PROJECT_DIR$/Lab3/Ex4/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/Ex4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +82,8 @@
       <workItem from="1678730201218" duration="1362000" />
       <workItem from="1678745997949" duration="2606000" />
       <workItem from="1678795443883" duration="82000" />
-      <workItem from="1678833765601" duration="2787000" />
+      <workItem from="1678833765601" duration="3101000" />
+      <workItem from="1679003019012" duration="1364000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -239,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678751257800</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Lab3 Ex3">
+      <created>1678836860546</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678836860546</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +277,7 @@
     <MESSAGE value="Ex5" />
     <MESSAGE value="Lab3 Ex1" />
     <MESSAGE value="Lab3 Ex2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab3 Ex2" />
+    <MESSAGE value="Lab3 Ex3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab3 Ex3" />
   </component>
 </project>
