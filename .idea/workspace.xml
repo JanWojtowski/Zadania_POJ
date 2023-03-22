@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab3 Ex5&amp;6">
-      <change afterPath="$PROJECT_DIR$/Lab4/Ex1/Fraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/Ex1/Main.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab4 Ex1">
+      <change afterPath="$PROJECT_DIR$/Lab4/Ex2/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/Ex2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,6 +89,7 @@
       <workItem from="1679336304314" duration="721000" />
       <workItem from="1679337276287" duration="1814000" />
       <workItem from="1679393041502" duration="2553000" />
+      <workItem from="1679492835298" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -265,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679092357500</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Lab4 Ex1">
+      <created>1679492886057</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1679492886057</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,6 +307,7 @@
     <MESSAGE value="Lab3 Ex3" />
     <MESSAGE value="Lab3 Ex4" />
     <MESSAGE value="Lab3 Ex5&amp;6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab3 Ex5&amp;6" />
+    <MESSAGE value="Lab4 Ex1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab4 Ex1" />
   </component>
 </project>
