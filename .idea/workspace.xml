@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab3 Ex4">
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex5/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex5/Atm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex6/Armor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex6/Armory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex6/Enemies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex6/FightingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex6/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Ex6/Weapon.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab3 Ex5&amp;6">
+      <change afterPath="$PROJECT_DIR$/Lab4/Ex1/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/Ex1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +84,11 @@
       <workItem from="1678795443883" duration="82000" />
       <workItem from="1678833765601" duration="3101000" />
       <workItem from="1679003019012" duration="1644000" />
-      <workItem from="1679071922486" duration="20333000" />
+      <workItem from="1679071922486" duration="20433000" />
+      <workItem from="1679331895024" duration="4097000" />
+      <workItem from="1679336304314" duration="721000" />
+      <workItem from="1679337276287" duration="1814000" />
+      <workItem from="1679393041502" duration="2553000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -262,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679004671535</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Lab3 Ex5&amp;6">
+      <created>1679092357499</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679092357500</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +298,7 @@
     <MESSAGE value="Lab3 Ex2" />
     <MESSAGE value="Lab3 Ex3" />
     <MESSAGE value="Lab3 Ex4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab3 Ex4" />
+    <MESSAGE value="Lab3 Ex5&amp;6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab3 Ex5&amp;6" />
   </component>
 </project>
