@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab5 Ex1">
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex2/Bakery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex2/Bookshop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex2/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex3/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex3/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex3/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex4/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex5/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex5/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex5/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex5/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex5/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex6/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Ex6/Main.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab5 Ex5">
+      <change afterPath="$PROJECT_DIR$/Lab6/Ex1/Czas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Ex1/Firma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Ex1/Pracownik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -109,7 +95,8 @@
       <workItem from="1679492835298" duration="1247000" />
       <workItem from="1679673093882" duration="6818000" />
       <workItem from="1680205636962" duration="2332000" />
-      <workItem from="1680284611195" duration="4316000" />
+      <workItem from="1680284611195" duration="4672000" />
+      <workItem from="1680874444988" duration="1458000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -314,7 +301,42 @@
       <option name="project" value="LOCAL" />
       <updated>1680210243053</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Lab5 Ex2">
+      <created>1680289089778</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1680289089778</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Lab5 Ex3">
+      <created>1680289144077</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1680289144077</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Lab5 Ex4">
+      <created>1680289244379</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1680289244379</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Lab5 Ex5">
+      <created>1680289269951</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1680289269951</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Lab5 Ex5">
+      <created>1680289280747</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1680289280747</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,6 +374,10 @@
     <MESSAGE value="Lab4 Ex2" />
     <MESSAGE value="Lab4 Ex3/4/5" />
     <MESSAGE value="Lab5 Ex1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab5 Ex1" />
+    <MESSAGE value="Lab5 Ex2" />
+    <MESSAGE value="Lab5 Ex3" />
+    <MESSAGE value="Lab5 Ex4" />
+    <MESSAGE value="Lab5 Ex5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab5 Ex5" />
   </component>
 </project>
