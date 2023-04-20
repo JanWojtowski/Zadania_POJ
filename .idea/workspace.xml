@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab6 Ex6">
-      <change afterPath="$PROJECT_DIR$/Lab6/Ex7/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/Ex7/Main.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab6 Ex7">
+      <change afterPath="$PROJECT_DIR$/Lab7/Ex1/AgeOutOfSpecException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/Ex1/EmptyStringException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/Ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/Ex1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/Ex2/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/Ex2/InsufficientFundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/Ex2/MainBankException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +100,9 @@
       <workItem from="1680205636962" duration="2332000" />
       <workItem from="1680284611195" duration="4672000" />
       <workItem from="1680874444988" duration="1588000" />
-      <workItem from="1680889939283" duration="8061000" />
+      <workItem from="1680889939283" duration="9226000" />
+      <workItem from="1680903618627" duration="886000" />
+      <workItem from="1682021073384" duration="3816000" />
     </task>
     <task id="LOCAL-00001" summary="Zadania 1-5">
       <created>1677860998455</created>
@@ -376,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680897780622</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Lab6 Ex7">
+      <created>1680898235170</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1680898235170</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ex2" />
     <MESSAGE value="Ex3" />
     <MESSAGE value="Ex4" />
     <MESSAGE value="Ex4/5" />
@@ -419,6 +433,7 @@
     <MESSAGE value="Lab6 Ex4" />
     <MESSAGE value="Lab6 Ex5" />
     <MESSAGE value="Lab6 Ex6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab6 Ex6" />
+    <MESSAGE value="Lab6 Ex7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab6 Ex7" />
   </component>
 </project>
