@@ -32,6 +32,4 @@ public class Divider {
             return 0;
         }
     }
-
-
 }
