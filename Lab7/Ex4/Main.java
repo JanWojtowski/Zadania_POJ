@@ -16,7 +16,7 @@ public class Main {
         Pattern letter_pattern = Pattern.compile("[a-zA-z]");
         Matcher letter_matcher = letter_pattern.matcher(string);
 
-        Pattern whitespace_pattern = Pattern.compile("\s");
+        Pattern whitespace_pattern = Pattern.compile(" ");
         Matcher whitespace_matcher = whitespace_pattern.matcher(string);
 
         Pattern number_pattern = Pattern.compile("[0-9]");
