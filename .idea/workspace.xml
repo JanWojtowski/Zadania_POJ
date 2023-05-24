@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab8 Ex3">
-      <change afterPath="$PROJECT_DIR$/Lab8/Ex5/Main.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab8 Ex5">
+      <change afterPath="$PROJECT_DIR$/Lab8/Ex6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/Ex6/TimeSeter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab8/Ex4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/Ex4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab8/Ex4/OperationOnFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/Ex4/OperationOnFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,14 +114,8 @@
       <workItem from="1684345640800" duration="19329000" />
       <workItem from="1684620975918" duration="158000" />
       <workItem from="1684621144413" duration="131000" />
-      <workItem from="1684920424738" duration="1257000" />
-    </task>
-    <task id="LOCAL-00002" summary="Zadania 1-6">
-      <created>1677861213650</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1677861213650</updated>
+      <workItem from="1684920424738" duration="1637000" />
+      <workItem from="1684927583055" duration="15667000" />
     </task>
     <task id="LOCAL-00003" summary="Zadania 1-6">
       <created>1677861274892</created>
@@ -460,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684350576470</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Lab8 Ex5">
+      <created>1684921846543</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1684921846543</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,7 +478,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab3 Ex2" />
     <MESSAGE value="Lab3 Ex3" />
     <MESSAGE value="Lab3 Ex4" />
     <MESSAGE value="Lab3 Ex5&amp;6" />
@@ -503,7 +502,8 @@
     <MESSAGE value="Lab8 Ex1" />
     <MESSAGE value="Lab8 Ex2" />
     <MESSAGE value="Lab8 Ex3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab8 Ex3" />
+    <MESSAGE value="Lab8 Ex5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab8 Ex5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Zadania_POJ$Main.ic" NAME="Main Coverage Results" MODIFIED="1684364699725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
