@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab8 Ex3">
-      <change afterPath="$PROJECT_DIR$/Lab8/Ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab8/Ex4/OperationOnFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/Ex5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab8/Ex4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/Ex4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab8/Ex4/OperationOnFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/Ex4/OperationOnFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +53,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/janwo/IdeaProjects/Zadania_POJ&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -109,6 +113,9 @@
       <workItem from="1684325987514" duration="3442000" />
       <workItem from="1684333006579" duration="2297000" />
       <workItem from="1684345640800" duration="19329000" />
+      <workItem from="1684620975918" duration="158000" />
+      <workItem from="1684621144413" duration="131000" />
+      <workItem from="1684920424738" duration="1257000" />
     </task>
     <task id="LOCAL-00002" summary="Zadania 1-6">
       <created>1677861213650</created>

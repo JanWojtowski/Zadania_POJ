@@ -4,17 +4,11 @@ import java.io.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 
 public class OperationOnFile {
 
     public void magic(File filein) throws IOException {
         Scanner scanner = new Scanner(filein);
-
-        Pattern uppercase = Pattern.compile("[A-Z]");
-        Pattern lowercase = Pattern.compile("[a-z]");
 
         DateTimeFormatter dt = DateTimeFormatter.ofPattern("dd.MM.yyyy");
         String fileOutPath = "./Lab8/Ex4/outbound/" + filein.getName().replace(".txt","") + " " + LocalDateTime.now().format(dt) + ".txt";
@@ -28,9 +22,6 @@ public class OperationOnFile {
             tempLine = tempLine.replace(" ","_");
             StringBuilder stringBuilder = new StringBuilder(tempLine);
 
-            Matcher matcher_uppercase = uppercase.matcher(tempLine);
-            Matcher matcher_lowercase = lowercase.matcher(tempLine);
-
             System.out.println(tempLine.length());
 
             for(int i = 0; i < tempLine.length(); i++){
@@ -42,7 +33,7 @@ public class OperationOnFile {
                     continue;
                 }
 
-                if(tempChar >= 65 && tempChar <= 90){
+                if(tempChar <= 90){
                     if(tempChar + 3 > 90){
                         tempChar = ((tempChar + 3) - 90) + 64;
                     }
@@ -52,7 +43,7 @@ public class OperationOnFile {
                     stringBuilder.setCharAt(i,(char)tempChar);
                 }
 
-                if(tempChar >= 97 && tempChar <= 122){
+                if(tempChar >= 97){
                     if(tempChar + 3 > 122){
                         tempChar = ((tempChar + 3) - 122) + 96;
                     }
