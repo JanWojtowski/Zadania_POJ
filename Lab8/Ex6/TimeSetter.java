@@ -8,7 +8,7 @@ import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class TimeSeter implements ActionListener {
+public class TimeSetter implements ActionListener {
     JTextField hourBox,minuteBox,tokyoTime,londonTime,newYorkTime;
     JButton button;
     JLabel tokyoDateLabel,londonDateLabel,newYorkDateLabel;
@@ -16,7 +16,7 @@ public class TimeSeter implements ActionListener {
     DateTimeFormatter timeFormatter = DateTimeFormatter.ofPattern("HH:mm");
     DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
-    TimeSeter() {
+    TimeSetter() {
         JFrame frame = new JFrame("Enter time");
 
         JLabel hourLabel = new JLabel("Enter time:");
