@@ -1,6 +1,7 @@
 package Lab8.Ex6;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.time.LocalDateTime;
@@ -8,7 +9,7 @@ import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class TimeSetter implements ActionListener {
+public class TimeSetter extends JFrame implements ActionListener{
     JTextField hourBox,minuteBox,tokyoTime,londonTime,newYorkTime;
     JButton button;
     JLabel tokyoDateLabel,londonDateLabel,newYorkDateLabel;
@@ -18,7 +19,6 @@ public class TimeSetter implements ActionListener {
 
     TimeSetter() {
         JFrame frame = new JFrame("Enter time");
-
         JLabel hourLabel = new JLabel("Enter time:");
         hourLabel.setBounds(10,50,75,20);
         frame.add(hourLabel);
@@ -37,7 +37,6 @@ public class TimeSetter implements ActionListener {
         button.setBounds(180,50,100,20);
         button.addActionListener(this);
         frame.add(button);
-
         frame.setSize(300,300);
         frame.setLayout(null);
         frame.setVisible(true);
@@ -74,6 +73,7 @@ public class TimeSetter implements ActionListener {
         newYorkDateLabel = new JLabel();
         newYorkDateLabel.setBounds(210 ,200,80,20);
         frame.add(newYorkDateLabel);
+        frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
     }
 
     public void actionPerformed(ActionEvent e) {
@@ -105,6 +105,10 @@ public class TimeSetter implements ActionListener {
             newYorkDateLabel.setText(String.valueOf(zonedGMTm4.format(dateFormatter)));
         }
 
+    }
+
+    public static void main(String[] args) {
+        TimeSetter h = new TimeSetter();
     }
 
 }
