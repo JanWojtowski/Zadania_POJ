@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab 10 Ex 4">
-      <change afterPath="$PROJECT_DIR$/Lab11/Ex1/Celsius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab11/Ex1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab8/Ex6/TimeSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/Ex6/TimeSetter.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab 11 Ex 1">
+      <change afterPath="$PROJECT_DIR$/Lab11/Ex2/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/Ex2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,14 +159,7 @@
       <workItem from="1686256509147" duration="17000" />
       <workItem from="1686256534113" duration="33000" />
       <workItem from="1686256942944" duration="19000" />
-      <workItem from="1686410880354" duration="15310000" />
-    </task>
-    <task id="LOCAL-00016" summary="Ex6">
-      <created>1678313385472</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1678313385472</updated>
+      <workItem from="1686410880354" duration="15967000" />
     </task>
     <task id="LOCAL-00017" summary="Ex5">
       <created>1678313615188</created>
@@ -506,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686426813007</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Lab 11 Ex 1">
+      <created>1686429761887</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1686429761887</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab6 Ex1" />
     <MESSAGE value="Lab6 Ex2" />
     <MESSAGE value="Lab6 Ex3" />
     <MESSAGE value="Lab6 Ex4" />
@@ -549,7 +546,8 @@
     <MESSAGE value="Lab 10 Ex 2" />
     <MESSAGE value="Lab 10 Ex 3" />
     <MESSAGE value="Lab 10 Ex 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 10 Ex 4" />
+    <MESSAGE value="Lab 11 Ex 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 11 Ex 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
