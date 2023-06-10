@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab9 Ex1">
-      <change afterPath="$PROJECT_DIR$/Lab9/Ex2/Slownik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjektE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjektE/Modules/BarrackModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjektE/Modules/CentralModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjektE/Modules/EngineModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjektE/Modules/Module.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjektE/Modules/ShieldModule.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab8/Ex6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/Ex6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab8/Ex6/TimeSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/Ex6/TimeSetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,12 +62,16 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\janwo\IdeaProjects\Zadania_POJ\ProjektE\Resurces" />
       <recent name="C:\Users\janwo\IdeaProjects\Zadania_POJ\Lab8\Ex2\" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -153,13 +148,13 @@
       <workItem from="1685222381426" duration="686000" />
       <workItem from="1685388171236" duration="5467000" />
       <workItem from="1685525557549" duration="134000" />
-    </task>
-    <task id="LOCAL-00008" summary="x">
-      <created>1678126902484</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1678126902484</updated>
+      <workItem from="1685717150911" duration="109000" />
+      <workItem from="1685900632132" duration="2273000" />
+      <workItem from="1685908071226" duration="69000" />
+      <workItem from="1686256271546" duration="40000" />
+      <workItem from="1686256509147" duration="17000" />
+      <workItem from="1686256534113" duration="33000" />
+      <workItem from="1686256942944" duration="19000" />
     </task>
     <task id="LOCAL-00009" summary="Ex2">
       <created>1678276262361</created>
@@ -497,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685046343114</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Project">
+      <created>1685717200097</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1685717200097</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab4 Ex2" />
     <MESSAGE value="Lab4 Ex3/4/5" />
     <MESSAGE value="Lab5 Ex1" />
     <MESSAGE value="Lab5 Ex2" />
@@ -540,7 +541,12 @@
     <MESSAGE value="Lab8 Ex7" />
     <MESSAGE value="Lab8 Ex8" />
     <MESSAGE value="Lab9 Ex1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab9 Ex1" />
+    <MESSAGE value="Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Zadania_POJ$Main.ic" NAME="Main Coverage Results" MODIFIED="1684364699725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
