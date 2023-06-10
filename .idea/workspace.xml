@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab 11 Ex 3">
-      <change afterPath="$PROJECT_DIR$/Lab11/Ex4/Flags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab11/Ex4/Main.java" afterDir="false" />
+    <list default="true" id="47e1f873-febc-4e62-9fd1-9d49d90a2a90" name="Changes" comment="Lab 11 Ex 4">
+      <change afterPath="$PROJECT_DIR$/Lab11/Ex5/DayName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/Ex5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,14 +161,7 @@
       <workItem from="1686256509147" duration="17000" />
       <workItem from="1686256534113" duration="33000" />
       <workItem from="1686256942944" duration="19000" />
-      <workItem from="1686410880354" duration="19139000" />
-    </task>
-    <task id="LOCAL-00019" summary="Ex5">
-      <created>1678313651598</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1678313651598</updated>
+      <workItem from="1686410880354" duration="20768000" />
     </task>
     <task id="LOCAL-00020" summary="Lab3 Ex1">
       <created>1678731713184</created>
@@ -506,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686431271274</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Lab 11 Ex 4">
+      <created>1686433525115</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1686433525115</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +524,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab6 Ex4" />
     <MESSAGE value="Lab6 Ex5" />
     <MESSAGE value="Lab6 Ex6" />
     <MESSAGE value="Lab6 Ex7" />
@@ -549,7 +548,8 @@
     <MESSAGE value="Lab 11 Ex 1" />
     <MESSAGE value="Lab 11 Ex 2" />
     <MESSAGE value="Lab 11 Ex 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 11 Ex 3" />
+    <MESSAGE value="Lab 11 Ex 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 11 Ex 4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
